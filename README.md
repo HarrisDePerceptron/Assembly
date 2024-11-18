@@ -43,7 +43,7 @@ To make sure everthing is setup correctly:
 - Running `dir` command should list the contents of the 8086 compiler files 
 
 
-[GettingStarted](./assets/gettingstarted.png)
+![GettingStarted](./assets/gettingstarted.png)
 
 ### Compiling and Executing 
 
